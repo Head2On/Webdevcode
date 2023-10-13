@@ -1,0 +1,1 @@
+It is the basic code in html,when you input '!' and hit the enter then the code visible.
