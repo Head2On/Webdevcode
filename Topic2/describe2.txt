@@ -1,0 +1,2 @@
+Here we text enter in body<body>....</body>, in style.css we change background color,or in js we creat a alert statement when you 
+reload this page.
